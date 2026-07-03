@@ -13,6 +13,6 @@ data:
       <head><title>W4D5 GitOps</title></head>
       <body>
         <h1>W4D5 GitOps App</h1>
-        <p>version: v1</p>
+        <p>version: v2</p>
       </body>
     </html>
